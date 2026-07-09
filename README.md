@@ -35,6 +35,17 @@ The dataset contains historical stock market information including:
 
 The target variable used for prediction is the **Closing Price** of YES Bank stock.
 
+## Variables Description
+
+| Variable | Description |
+|----------|-------------|
+| Date | Represents the date of the stock price record. It is used for analyzing YES Bank stock price trends over time. |
+| Open | Represents the opening price of YES Bank stock at the beginning of the trading period. |
+| High | Represents the highest stock price recorded during the trading period. |
+| Low | Represents the lowest stock price recorded during the trading period. |
+| Close | Represents the closing price of YES Bank stock at the end of the trading period. This is the target variable that the machine learning models aim to predict. |
+| Volume | Represents the total number of YES Bank shares traded during the trading period and indicates market activity. |
+
 ## Exploratory Data Analysis
 
 The following analysis was performed:
@@ -149,19 +160,20 @@ YES-Bank-Stock-Price-Prediction/
 
 2. Upload the dataset file:
 
-   data_YesBank_StockPrices.csv
+data_YesBank_StockPrices.csv
 
 3. Install required libraries if needed.
 
 4. Run all cells in the notebook.
 
 5. The notebook performs:
-   - Data preprocessing
-   - Exploratory Data Analysis
-   - Model training
-   - Model evaluation
-   - Hyperparameter tuning
-   - Stock price prediction
+
+- Data preprocessing
+- Exploratory Data Analysis
+- Model training
+- Model evaluation
+- Hyperparameter tuning
+- Stock price prediction
 
 ## Author
 
