@@ -1,4 +1,4 @@
-# YES Bank Stock Price Prediction using Machine Learning
+# YES Bank Stock Price Prediction 
 
 ## Project Overview
 
